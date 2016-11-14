@@ -11,7 +11,14 @@
 @interface AppDelegate ()
 
 
+/**
+  标题
+ */
+@property(nonatomic,copy)NSString * title;
+
 @property(nonatomic,copy)NSString * testString;
+
+
 
 @end
 
