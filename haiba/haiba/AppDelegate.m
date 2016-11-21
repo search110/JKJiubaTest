@@ -22,6 +22,7 @@
 
 @property(assign, nonatomic) int abf;
 
+@property(strong, nonatomic) NSString *name;
 
 @end
 
