@@ -20,6 +20,7 @@
 
 @property(nonatomic,copy)NSString * test;
 
+@property(assign, nonatomic) int abf;
 
 
 @end
