@@ -13,6 +13,10 @@
 
 @property(nonatomic,copy)NSString * testString;
 
+
+@property(copy, nonatomic) NSString *test001;
+
+
 @end
 
 @implementation AppDelegate
