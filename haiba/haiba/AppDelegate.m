@@ -28,6 +28,8 @@
 
 @property(strong, nonatomic) NSString *name2;
 
+@property(strong, nonatomic) NSString *name3;
+
 @end
 
 @implementation AppDelegate
