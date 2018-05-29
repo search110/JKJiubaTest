@@ -22,6 +22,8 @@
 
 @property(copy,nonatomic)NSString * test7;
 
+@property(copy,nonatomic)NSString * test8;
+
 @end
 
 @implementation ViewController
