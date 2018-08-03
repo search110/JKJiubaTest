@@ -30,7 +30,7 @@
 
 @property(copy,nonatomic)NSString * dev1;
 
-
+@property(copy,nonatomic)NSString * dev2;
 
 @end
 
