@@ -45,6 +45,10 @@
 
 @property(copy,nonatomic)NSString * dev7;
 
+@property(copy,nonatomic)NSString * dev8;
+
+@property(copy,nonatomic)NSString * dev9;
+
 @end
 
 @implementation ViewController
