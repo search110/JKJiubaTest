@@ -28,6 +28,8 @@
 
 @property(copy,nonatomic)NSString * dev;
 
+@property(copy,nonatomic)NSString * dev1;
+
 
 
 @end
