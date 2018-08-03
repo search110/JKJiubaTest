@@ -26,7 +26,7 @@
 
 @property(copy,nonatomic)NSString * test10;
 
-@property(copy,nonatomic)NSString * testMerge;
+
 
 @end
 
