@@ -35,6 +35,8 @@
 
 @property(copy,nonatomic)NSString * dev2;
 
+@property(copy,nonatomic)NSString * dev3;
+
 @end
 
 @implementation ViewController
