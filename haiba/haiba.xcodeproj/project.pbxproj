@@ -505,6 +505,7 @@
 				4D22994F1DD990FA000B6DBB /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		4D2299501DD990FA000B6DBB /* Build configuration list for PBXNativeTarget "haibaTests" */ = {
 			isa = XCConfigurationList;
@@ -513,6 +514,7 @@
 				4D2299521DD990FA000B6DBB /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		4D2299531DD990FA000B6DBB /* Build configuration list for PBXNativeTarget "haibaUITests" */ = {
 			isa = XCConfigurationList;
@@ -521,6 +523,7 @@
 				4D2299551DD990FA000B6DBB /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
